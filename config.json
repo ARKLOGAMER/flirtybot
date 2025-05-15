@@ -1,0 +1,18 @@
+{
+  "defaultTone": "casual",
+  "availableTones": ["casual", "funny", "sweet", "nerdy", "witty", "charming"],
+  "maxMessageLength": 200,
+  "cooldownTime": 5,
+  "tips": [
+    "Be genuine and authentic in your approach",
+    "Listen actively and show interest in the other person",
+    "Use humor appropriately and keep it light",
+    "Respect personal boundaries and space",
+    "Focus on building a connection rather than just flirting",
+    "Be confident but not arrogant",
+    "Use open-ended questions to keep the conversation flowing",
+    "Pay attention to body language and social cues",
+    "Be patient and don't rush things",
+    "Remember that rejection is normal and not personal"
+  ]
+} 

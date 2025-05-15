@@ -1,0 +1,19 @@
+{
+  "name": "flirtbot",
+  "version": "1.0.0",
+  "description": "A fun and respectful Discord bot for improving social conversation skills",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "openai": "^4.28.0",
+    "axios": "^1.6.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+} 
